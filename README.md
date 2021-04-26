@@ -1,42 +1,28 @@
-## Welcome to GitHub Pages
+# Phoenix Grasser's MAGD 150 Project Highlights
 
-You can use the [editor on GitHub](https://github.com/feephoenixx/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Some examples of projects I created during the Spring 2021 semester
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Colorful Bubbles
 
-### Markdown
+Simple mouse interaction and some console output with a design inspired by visuals used on TV channels that functioned as radios.
+[Source Code](https://github.com/feephoenixx/MAGD-150-Assignments/blob/gh-pages/s21magd150lab03_grasser/sketch.js)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pizza
 
-```markdown
-Syntax highlighted code block
+Simple animation and mouse button and keyboard interaction.
+[Source Code](https://github.com/feephoenixx/MAGD-150-Assignments/blob/gh-pages/s21magd150lab04_grasser/sketch.js)
 
-# Header 1
-## Header 2
-### Header 3
+## TV Channels
 
-- Bulleted
-- List
+Testing with some animation and restricting where something can go to keep objects inside of a frame, as well as some interactivity.
+[Source Code](https://github.com/feephoenixx/MAGD-150-Assignments/blob/gh-pages/s21magd150lab05_grasser/sketch.js)
 
-1. Numbered
-2. List
+## Flowers
 
-**Bold** and _Italic_ and `Code` text
+Practice with objects and user defined classes; yet again more interactivity. Some random generation for the color and number of petals on each flower, as well as making sure the angles worked to fit all the petals around the base of the flower.
+[Source Code](https://github.com/feephoenixx/MAGD-150-Assignments/blob/gh-pages/s21magd150lab07_grasser/sketch.js)
 
-[Link](url) and ![Image](src)
-```
+## Cat Movie Movie Poster
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-# Test Time
-
-[Source Code 1](https://github.com/feephoenixx/MAGD-150-Assignments/blob/gh-pages/s21magd150lab03_grasser/sketch.js)
-[View This Code](https://github.com/feephoenixx/MAGD-150-Assignments/blob/gh-pages/s21magd150lab03_grasser/index.html)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/feephoenixx/MAGD-150-Assignments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Text and image work; adding custom fonts, applying filters, etc. Using arrays to shuffle between text at the bottom as well.
+[Source Code](https://github.com/feephoenixx/MAGD-150-Assignments/blob/gh-pages/s21magd150lab08_grasser/s21magd150_lab08_grasser.js)
